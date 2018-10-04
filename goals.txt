@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>My Contacts</title>
+</head>
+<body background="18.jpg">
+<center>
+<font face="Forte" size="12" color="skyblue">My Contacts</font>
+</center>
+<center>
+<img src="23.jpg" width="50%">
+<img src="24.jpg" width="50%">
+<p>"INSHAALLAH."</p>
+<br><br>
+<div><a href="ict.html">Back</a></div>
+</center>
+</body>
+
+
+</html>
